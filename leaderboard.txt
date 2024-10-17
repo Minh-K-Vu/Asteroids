@@ -1,0 +1,10 @@
+jo 930
+minh 900
+mo 460
+john 420
+ban 400
+minh 350
+minh 290
+lucas 250
+nyan 240
+minh 220
